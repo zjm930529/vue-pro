@@ -1,0 +1,6 @@
+export const SHOW_TOP ='SHOW_TOP'
+export const HIDE_TOP ='HIDE_TOP'
+export const SHOW_BTN ='SHOW_BTN'
+export const HIDE_BTN ='HIDE_BTN'
+export const SHOW_Loading ='SHOW_Loading'
+export const HIDE_Loading ='HIDE_Loading'
